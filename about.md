@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I like computer.
+I like computer. TBD.
 
 ### Contact me
 
