@@ -20,7 +20,7 @@ Anyway, aside from his small supporting role in *Gladiator*, Marcus Aurelius spe
 
 Above all, *Meditations* is emblematic of the human condition. Marcus Aurelius was a human being, with very real and very relatable anxieties, in-spite of him controlling an empire that looked like this, **1800** years ago:
 
-!(\images\UserDaanschrMarcus_Aurelius1.png)
+![map](\images\UserDaanschrMarcus_Aurelius1.png)
 [Source](https://wikivisually.com/wiki/User:Daanschr/_Historical_maps/_Marcus_Aurelius)
 
 So, next time you're berating yourself for feeling shitty, remember that even the guy in charge of the entire Western world regularly had pangs of self-doubt.
