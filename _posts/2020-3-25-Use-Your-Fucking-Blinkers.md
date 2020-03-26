@@ -10,11 +10,11 @@ Today I'm going to talk to you about my favourite text, *Meditations* and why, d
 - Anxiety
 - Using one's blinkers
 
-*Meditations* was authored by Roman Emperor Marcus Aurelius, probably best known for his role as Russell Crowe's mate in the first act of *Gladiator*. He's quickly murdered by his son, Commodus (Joaquin Pheonix), who wanted his job (in reality, Marcus died of the plague and he got on really well with his son, but ok). After being falsely accused of something or other, Russell Crowe eventually finds out that Commodus murdered his friend, so he beats his ass and dies vindicated.
+*Meditations* was authored by Roman Emperor Marcus Aurelius, probably best known for his role as Russell Crowe's mate in the first act of *Gladiator*. He's quickly murdered by his son, Commodus (Joaquin Pheonix), who wanted his job. After being falsely accused of something or other, Russell Crowe eventually finds out that Commodus murdered his friend, so he beats his ass and dies vindicated. In reality, Marcus died of the plague and he got on really well with his son, Commodus, but ok.
 
-[TRIVIA: In reality, pouty Commodus was a GIANT NARCISSISTIC BEEFCAKE, who himself used to fight in the arena as a gladiator, much to the chagrin of the Roman people. He was pretty good at it, with Cassius Dio claiming that he killed 100 lions in a day, just in-case you were impressed by Russell Crowe taking on a single tiger ([which makes lion sounds btw](https://www.youtube.com/watch?v=fAf1w_ruXeY)).]
+[TRIVIA: Pouty Commodus was, in actual fact, a GIANT NARCISSISTIC BEEFCAKE who himself used to fight in the arena as a gladiator, much to the chagrin of the Roman people. He was pretty good at it, with Cassius Dio claiming that he killed 100 lions in a day, just in-case you were impressed by Russell Crowe taking on a single tiger ([which makes lion sounds btw](https://www.youtube.com/watch?v=fAf1w_ruXeY)).]
 
-Anyway, aside from his small supporting role in *Gladiator*, Marcus Aurelius spent nearly his entire life on campaign to secure Rome's borders. Marcus, an adherent of stoic philosophy, maintained something of a diary throughout this period, in-order to keep track of his reflections. Though he didn't give the collection a title (likely because he never intended to have it published), it's come to be known simply as *Meditations*.
+Anyway, aside from his supporting role in *Gladiator*, Marcus Aurelius spent nearly his entire life on campaign to secure Rome's borders. Marcus, an adherent of stoic philosophy, maintained something of a diary throughout this period, in-order to keep track of his reflections. Though he didn't give the collection a title (likely because he never intended to have it published), it's come to be known simply as *Meditations*.
 
 ### On Meditations - Anxiety
 
