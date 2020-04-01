@@ -3,12 +3,12 @@ layout: post
 title: Use Your Fucking Blinkers
 ---
 
-### Suck My Balls, Gladiator
-
 Today I'm going to talk to you about my favourite text, *Meditations* and why, despite being written close to 2 millennia ago, it can help us deal with two modern scourges:
 
 - Anxiety
 - Using one's blinkers
+
+### Suck My Balls, Gladiator
 
 *Meditations* was authored by Roman Emperor Marcus Aurelius, probably best known for his role as Russell Crowe's mate in the first act of *Gladiator*. He's quickly murdered by his son, Commodus (Joaquin Pheonix), who wanted his job. After being falsely accused of something or other, Russell Crowe eventually finds out that Commodus murdered his friend, so he beats his ass and dies vindicated. In reality, Marcus died of the plague and he got on really well with his son, Commodus, but ok.
 
