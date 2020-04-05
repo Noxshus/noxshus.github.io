@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Critic of Marriage Story
+title: A Critique of Marriage Story
 ---
 
 *Marriage Story* is, undoubtedly, a great film. There's a degree of technical skill in both the camera work & cumulative acting ability that's difficult to fault. It's not hard to see how it earned so many accolades. It's perhaps because of this level of mastery on the practical level that a contrast forms between it and its narrative content: the writing is shallow and coarse.
