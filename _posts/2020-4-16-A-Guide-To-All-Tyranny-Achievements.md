@@ -159,6 +159,13 @@ Now that you've had a chance to get the hang of it, our second run will be:
 
 #### Second Run - Conquest
 
+
+Lethian's Crossing: The Chorus need control of the crossing for the purpose of an achievement.
+
+- The Cult of Sirin:  Destroy Sirin's cult  (this gives major Fear with Sirin)
+- A Red Anvil: Enslave the renegade mage 
+- Who Controlled the Crossing? : Choose the Disfavored
+
 Stalwart:
 
 Marching on Empty: Punish the Scarlet Chorus (unlocks a supply cache)
