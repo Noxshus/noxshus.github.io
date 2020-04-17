@@ -92,13 +92,13 @@ We'll be able to knock out the most achievements in this first playthrough. 3 of
 
 **Arsenal**: Fairly easily done by crafting artifacts at a spire. You'll probably get this by accident too.
 
-**I Am The Law**: Talk to people that are squabbling in various areas. Pick a clear judgement. Unsure how many it takes to get this, but this achievement is very easy and will likely be gotten by accident.
+**I Am The Law**: Talk to people that are squabbling in various areas. You can pick literally any judgement - in-fact the trigger seems to be before the judgement is made. Unsure how many it takes to get this, but this achievement is very easy and will likely be gotten by accident.
 
 **Perceptive**: Discover 25 Hidden Objects. This will happen by accident.
 
 #### First Run - Act 1 Achievements
 
-**Day of Swords**: This is a bit of a joke achievement. Save at some point in Act 1 and keep sleeping in the tent until the Act 1 timer runs out, which will cause a gave over screen. Reload once you've gotten the achievement.
+**Day of Swords**: This is a bit of a joke achievement. Save at some point in Act 1 and keep sleeping in either the tent at the Disfavoured or Scarlett Chorus map, until the Act 1 timer runs out, which will cause a gave over screen. Reload once you've gotten the achievement.
 
 #### First Run - Act 2 Achievements
 
@@ -110,13 +110,22 @@ We'll be able to knock out the most achievements in this first playthrough. 3 of
 
 **Lawyered**: This achievement requires saving Amelia's child through a legal loophole. Following the attack on Sentinel Keep, you'll discover that Amelia has a child, which you'll otherwise need to murder to end the Edict of Storms. However, with a high enough Lore skill, you'll be able to figure out how to circumvent that. ***NEEDS WORK
 
-**Solo Performance**: This is only possible if you went to Lethian's Crossing and left the Scarlett Chorus in charge. Simply visit the brothel, talk to the owner and spend some time there.
-
-**Boom**: At Lethian's Crossing, keep clicking on the Forge-Bound smith until he explodes.
 
 **Savage Stone**: When you enter the Gulfglow Oldwalls, you'll meet some Earthshakers. Avoid attacking them and offer to speak to Red-Fang at the Gulfglow Runic Hall to try and resolve the problem peacefully. Follow her quest for this achievement.
 
-**Unconventional Materials**: Cut the Rune from the Sage's Chest in the Burning Library. This extremely specific achievement is only available if you gave the Sages a warning during the Conquest stage (A Chorus-leaning choice). Ensure you have Lantry with you before heading to the Burning Library, where a new area in the south-east corner of the Lower Ruins has appeared. Once there, Lantry will draw your attention to a Sage drowning in lava - select the option to cut the rune out of his chest. If you don't have Lantry with you, you can also notice this on your own with enough Lore skill.
+#### First Run - Act 2 Lethian's Crossing Achievements
+
+Note: You can go to Lethian's Crossing first to do these two achievements, pick up Sirin and activate the Spire, even though we're actually going to take the Burning Library quest from the Voices.
+
+**Solo Performance**: This is only possible if you went to Lethian's Crossing and left the Scarlett Chorus in charge. Visit the brothel (The Sword Or Sheath), talk to the owner and ask him about his 'beauties'. After exhausting the list, he'll offer you a solo room - spend some time there for this achievement.
+
+**Boom**: At Lethian's Crossing, inside The Forge, keep clicking on the Forge-Bound Apprentice that's striking the anvil until he explodes (it takes quite a few clicks & he might repeat dialogue, but keep at it).
+
+#### First Run - Act 2 Burning Library Achievements
+
+Note: It's important to tell the Voices that you're heading to the Burning Library, when given the option, or else you can't go there at all.
+
+**Unconventional Materials**: Cut the Rune from the Sage's Chest in the Burning Library. This extremely specific achievement is only available if you gave the Sages a warning during the Conquest stage (A Chorus-leaning choice). Ensure you have Lantry with you before heading to the Burning Library, where a new area in the south-east corner of the Lower Ruins ( the '2nd' area) has appeared. Once there, an event will trigger and your attention is drawn to a Sage drowning in lava. Lantry will note a sigil on the sage's chest, which you can opt to cut out. If you don't have Lantry with you, you can also notice this on your own with enough Lore skill.
 
 #### First Run - Bastard's Wound Achievements
 
@@ -159,8 +168,6 @@ Now that you've had a chance to get the hang of it, our second run will be:
 
 #### Second Run - Conquest
 
-
-Lethian's Crossing: The Chorus need control of the crossing for the purpose of an achievement.
 
 - The Cult of Sirin:  Destroy Sirin's cult  (this gives major Fear with Sirin)
 - A Red Anvil: Enslave the renegade mage 
