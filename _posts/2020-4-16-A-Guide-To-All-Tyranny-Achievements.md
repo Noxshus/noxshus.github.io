@@ -15,6 +15,8 @@ Before we begin, some notes about *Tyranny* and making one's life easier:
 
 - Character progression *Tyranny* is somewhat unique: a character has both a traditional 'level', as well as skills which level up individually through use (e.g. bashing someone on the head makes you better at the weapon you used to bash them with). A character gains a level when they gain enough levels in other skills. The unique part is that advancement in skills is *party wide*. This means that if one of your party members bashes someone in the head, your entire team (including your main character) will get better at that skill. This can cause things to 'snowball' somewhat, as a high skill level opens up more options, which in-turn results in more experience.
 
+- At character creation, spread all your skill points across Lore, Athletics and Subterfuge. These 3 skills unlock hundreds of interactions and in-turn reward experience for the respective skill. As long as you keep selecting options that require them, you'll likely never meet a skill check you can't succeed past Act 1 of the first run.
+
 - Magic is by far the path of least resistance. There are spells for every occasion and then some. As all characters can also use magic, at least to some degree, there is no reason not to have spells equipped on your entire party, even on archetypes that you wouldn't traditionally associate with magic usage. Combined with *Tyranny*'s character progression, having everyone use magic will progressively make your entire party better at magic related skills (particularly, Lore).
 
 - While *Tyranny* is a real-time-with-pause style of RPG, characters actually have to wait a variable amount of time before making their next action. This is called "Recovery". Generally, because magic is king, items which increase recovery time significantly are to be avoided, because it increases the amount of time a character has to wait before casting their next spell. Just enough equipment to avoid being one-shot should be the goal. Magic provides several forms of defence, as well as healing, so armour is not particularly important in *Tyranny*.
@@ -24,12 +26,12 @@ Before we begin, some notes about *Tyranny* and making one's life easier:
 ### First Run
 
 - Preparation begins even before we start. There's 2 achievements tied to difficulty: **Iron Victory** & **Victory of the Damned**. The former is an 'ironman' mode of sorts where you only have 1 save file, which is deleted if your party dies. The latter requires a win on the highest difficulty. *Tyranny* is only particularly challenging initially, as your ever-increasing magic skill will eventually trivialise everything, even on the highest difficulty.
-- There's also one other achievement which I consider to be somewhat related to difficulty: **Zero Consumption**. This requires that the player never consume a healing potion in a playthrough, which is trivial on "Story Mode". However, this is a value **which persists through new game +**, so it's something that should be dealt with early.
+- There's also one other achievement which I consider to be somewhat related to difficulty: **Zero Consumption**. This requires that the player never consume a healing potion in a playthrough, which is trivial on "Story Mode". However, this is a value *which persists through new game +*, so it's something that should be dealt with early.
 
 With those in-mind, I would recommend that one's first playthough is:
 
 - On Story Mode difficulty. This will make **Zero Consumption** much easier and on subsequent playthroughs we'll be able to use healing potions.
-- **Not** on Trial of Iron. Assuming this is your first time playing Tyranny, I'd recommend running through the game once with the option to save & reload if necessary.
+- *Not* on Trial of Iron. Assuming this is your first time playing Tyranny, I'd recommend running through the game once with the option to save & reload if necessary.
 - Siding with the Scarlett Chorus.
 
 #### First Run - Conquest
@@ -52,7 +54,6 @@ Vellum Citadel: Need to give warning to the sages to open up an achievement late
 - The Spymaster's Agents? : Release the mages to the Scarlet Chorus 
 - Edict of Fire: Give one day's warning 
 
-
 #### First Run - Organic Achievements
 
 We'll be able to knock out the most achievements in this first playthrough. 3 of them are completely unavoidable, so I will not mention them. Many of the others will be done completely organically, so there's no need to go out of your way for them, but here they are just-in-case:
@@ -62,21 +63,11 @@ We'll be able to knock out the most achievements in this first playthrough. 3 of
 - You can murder Eb the first time you meet her. Don't and she'll be available later.
 - You can recruit Siren in Act II, from Lethian’s Crossing.
 
-**By Our Powers Combined**: Perform a combo with every companion. Combo abilities are unlocked at either Loyalty 3, or Fear 3, then simply use one combo with each companion. You can check what option which options will grant reputation by ticking the following box in the options menu:
+**Inspiring Leader**: Reach 5 Loyalty with any companion. Verse is the easiest, especially on this playthrough since we're siding with the Scarlett Chorus; simply select every favour granting option & do her quests when available. You can check what option which options will grant reputation by ticking the following box in the options menu:
 
 ![reputation](\images\showrep.png)
 
-**Inspiring Leader**: Reach 5 Loyalty with any companion. Verse is the easiest, especially on this playthrough since we're siding with the  Scarlett Chorus; simply select every favour granting option & do her quests when available. 
-
 **Tyrant**: Reach 5 Fear with any companion. Barik is the easiest on a Scarlett Chorus playthrough, as just about everything will annoy him. **NOTE:** Barik will attempt to leave your party if you join up with the Scarlett Chorus, but if you have at least 1 Fear with him, he will strike you, which unlocks a Lore, or Athletics check to get him to back down.
-
-**Change of Carapace**: Complete Barik's companion quests. This can be done on any playthrough. The only 'trick' is that, in your conversations with Barik, never agree with him when he suggests staying in his armour.
-
-**Truth and Reconciliation**: Complete Lantry's companion quests. It's absolutely critical that you do not kill Lexeme at any point, or you won't be able to receive the 2nd quest in Act 3.
-
-**Let the Next Verse Begin**: Complete Verse's companion quests. At the end, with a Loyalty of at least 3, allow the Voices of Nerat to take Verse. There's another quest related to Verse's companion quest, but we'll do that on another run.
-
-**Paved with Good Intentions**: As a consequence of **Let the Next Verse Begin**, you'll also acquire this achievement.
 
 **Chorus of Victory**: Complete the run allied to the Scarlet Chorus. This is the main objective of this run; simply side with the Chorus at the Ascension Hall and never change your mind.
 
@@ -86,7 +77,7 @@ We'll be able to knock out the most achievements in this first playthrough. 3 of
 
 **Building a Reputation**: Acquire a faction reputation ability. This will happen long before doing either of the above by accident.
 
-**Correspondence Course**: Reply to any missive in the game. You'll get this by accident for sure.
+**Correspondence Course**: Reply to any missive in the game. I don't think any of the missives are essential, but there's no reason not to reply to them either, so might as well!
 
 **Legendary**: Acquire an artifact - you'll get this by accident.
 
@@ -108,11 +99,6 @@ We'll be able to knock out the most achievements in this first playthrough. 3 of
 
 **Look On My Works, Ye Mighty...**: Upgrade all the Spires.
 
-**Lawyered**: This achievement requires saving Amelia's child through a legal loophole. Following the attack on Sentinel Keep, you'll discover that Amelia has a child, which you'll otherwise need to murder to end the Edict of Storms. However, with a high enough Lore skill, you'll be able to figure out how to circumvent that. ***NEEDS WORK
-
-
-**Savage Stone**: When you enter the Gulfglow Oldwalls, you'll meet some Earthshakers. Avoid attacking them and offer to speak to Red-Fang at the Gulfglow Runic Hall to try and resolve the problem peacefully. Follow her quest for this achievement.
-
 #### First Run - Act 2 Lethian's Crossing Achievements
 
 Note: You can go to Lethian's Crossing first to do these two achievements, pick up Sirin and activate the Spire, even though we're actually going to take the Burning Library quest from the Voices.
@@ -127,27 +113,47 @@ Note: It's important to tell the Voices that you're heading to the Burning Libra
 
 **Unconventional Materials**: Cut the Rune from the Sage's Chest in the Burning Library. This extremely specific achievement is only available if you gave the Sages a warning during the Conquest stage (A Chorus-leaning choice). Ensure you have Lantry with you before heading to the Burning Library, where a new area in the south-east corner of the Lower Ruins ( the '2nd' area) has appeared. Once there, an event will trigger and your attention is drawn to a Sage drowning in lava. Lantry will note a sigil on the sage's chest, which you can opt to cut out. If you don't have Lantry with you, you can also notice this on your own with enough Lore skill.
 
+
+Note: It doesn't really matter where you go next, but the Blade Grave is the more interesting option, in my opinion. I'd recommend doing the Bastard's Wound quests once they're available, to knock them out asap.
+
+
 #### First Run - Bastard's Wound Achievements
+
+Note: Take Lantry with you & whatever you do, DO NOT KILL LEXEME.
 
 **Troubleshooter**: Complete all the Bastard's Wound quests. While I've put this here, I'd recommend following this achievement through on the 1st, 3rd & 4th runs (not possible on the 2nd) anyway for the rewards.
 
-- Once in the Bastard's Wound for the first time, after talking to Mell, talk to Jaspos and Wagstaff to pick up their quests (“Knapping on the Job” and “Tide Together”).
+- Once in the Bastard's Wound for the first time, after talking to Mell, talk to Jaspos and Wagstaff to pick up their quests (“Knapping on the Job” and “Tide Together”). Be sure to do **Well Done** while on Jaspos' quest.
 - Go and do both of those, come back and return them. **Do not pick up any other quests yet**.
 - Pick up & do the following 3 quests: “Gambler’s Ruin” from Rostrom Len, “Midnight Wanderer” from Eisly and “Water Intoxication” from Tycho at Bastard’s Wound Farm.
 - Afterwards, you can decide who to support and pick up a quest from that person: “History of the Oldwalls” form Mell, “Blood of the Beast” from Wagstaff or “Bones of the Beast” from Jaspos. In this case, I would recommend doing "Blood of the Beast", Wagstaff's quest, since he's the most thematically appropriate for the Chorus.
-- Follow the quest chain to its conclusion; the achievement will unlock after picking a leader.
+- Follow the quest chain to its conclusion; the achievement will unlock after picking a leader. See **Prince of Tidecasters** & **Complicit Justice** below.
 
-**Well Done**: During Jaspos' quest, “Knapping on the Job”, lie to Cassandra, telling her that you decided to let her keep her tools. After that, talk to Capteron and wait until night time, at which point you'll notice there's a villager next to the well. Pushing them into the well will create a distraction and grant this achievement. 
+**Well Done**: During Jaspos' quest, “Knapping on the Job”, use the lie option on Cassandra, telling her that you decided to let her keep her tools. After that, talk to Capteron to wait until nightfall. In the southern-end of the villager, there's a villager next to the well that you can push into it, which will grant this achievement. 
 
-**Complicit Justice**: You might recall that I mentioned there's 5 ways to resolve the Bastard's Wound questline, so we'll need to do a bit of save-scumming here. At the very end of the Bastard's Wound questline, when it's time to pick a leader, **make a fresh save** and choose to walk away from the meeting. After to exit the Wound, this achievement should pop. Afterwards, reload and we'll continue as usual.
+![reputation](\images\shovevillager.png)
+
+**Sleepless in Three Battles**: You'll get this by accident while wandering the Oldwalls - there's enough hostile Sleepless for this by default.
+
+**Complicit Justice**: You might recall that I mentioned there's 5 ways to resolve the Bastard's Wound questline, so we'll need to do a bit of save-scumming here. At the very end of the Bastard's Wound questline, when it's time to pick a leader, *make a fresh save* and choose to walk away from the meeting. After exiting the Wound, this achievement should pop. Afterwards, reload and continue as usual.
 
 **Prince of Tidecasters**: Pick Wagstaff as the leader.
  
 #### First Run - Act 3 Achievements
 
-**Sloppy Seconds**: After completing Barik's companion quests, travel between areas until a random event occurs where you can suggest that Barik bathes. Simply don't. For some reaosn this achievement doesn't trigger immediately - you'll have to wait till the end of the run for it to appear.
+**Savage Stone**: When you enter the Gulfglow Oldwalls, you'll meet some Earthshakers. Avoid attacking them and offer to speak to Red-Fang at the Gulfglow Runic Hall to try and resolve the problem peacefully. Follow her quest for this achievement.
+
+**Truth and Reconciliation**: Complete Lantry's companion quests. It's absolutely critical that you do not kill Lexeme at any point, or you won't be able to receive the 2nd quest in Act 3.
 
 **High as the Mountain Spire**: This is related to Lantry's 2nd quest, "Annal Sects”. To get it, interact with the berry bush in the Indigo Fields again while in a full party. However, Siren doesn't count. Additionally, fabula_rasa recommends not taking Kills-in-Shadow due to a potential bug with an artifact, but this has never occurred to me.
+
+**Let the Next Verse Begin**: Complete Verse's companion quests. At the end, with a Loyalty of at least 3, allow the Voices of Nerat to take Verse. There's another quest related to Verse's companion quest, but we'll do that on another run.
+
+**Paved with Good Intentions**: As a consequence of **Let the Next Verse Begin**, you'll also acquire this achievement.
+
+**Change of Carapace**: Complete Barik's companion quests. This can be done on any playthrough. The only 'trick' is that, in your conversations with Barik, never agree with him when he suggests staying in his armour.
+
+**Sloppy Seconds**: After completing Barik's companion quests, travel between areas until a random event occurs where you can suggest that Barik bathes. Simply don't. For some reaosn this achievement doesn't trigger immediately - you'll have to wait till the end of the run for it to appear.
 
 **The Prosecution Rests**: Convict an Archon in Tunon's court. This is best done in either this run, or the next. When you're summoned for trial by Tunon, you'll first be able to present evidence against one of the Archons. On this run, you should pick Graven Ashe, as you'll have easily accumulated enough evidence to convict him. Important notes:
 
@@ -202,7 +208,7 @@ The Edict of Storms: Give no warning (unlocks an artifact helm)
 
 **Feel The Burn**: Destroy the Burning Library. This is done naturally on this run, as it's part-of the Disfavoured questline, as long as you visit the Burning Library.
 
-
+**Lawyered**: This achievement requires saving Amelia's child through a legal loophole. Following the attack on Sentinel Keep, you'll discover that Amelia has a child, which you'll otherwise need to murder to end the Edict of Storms. However, with a high enough Lore skill, you'll be able to figure out how to circumvent that. ***NEEDS WORK
 
 #### Second Run - Bastard's Wound Achievements
 
@@ -213,10 +219,6 @@ The Edict of Storms: Give no warning (unlocks an artifact helm)
 - Remember to also murder Lexeme and Reef-Talon in the Abyss.
 
 Note that this will prevent you from completing Lantry's companion quests on this run.
-
-**NEED WORK - does this achievement also qualify as killing all the sleepless for the other quest?
-
-**Sleepless in Three Battles**: You'll get this by accident.
 
 **Nice to Meat You**: During your killing spree, you'll run across a slab of meat on someone's corpse that can be equipped as a weapon. Simply kill anyone with it (doesn't have to be in the Oldwalls).
 
@@ -306,6 +308,8 @@ If you done correctly, you will receive a missive from Tarkis Arri inviting you 
 
 **Capstone**: Learn the last talent in any of the player’s 6 talent trees. If you've been playing a jack-of-all-trades previously, on this run, make an exception and invest enough points in a tree to learn the final talent in any given tree. You can re-invest your points at the start of a run, so if you're already of decent level, you can likely get this right out of the gate.
 
+**By Our Powers Combined**: This is another achievement you might have not gotten yet - perform a combo with every companion. Combo abilities are unlocked at either Loyalty 3, or Fear 3, then simply use one combo with each companion. 
+
 #### Fourth Run - 2nd Act Achievements
 
 **Eternal Suffering**: This is only possible on the Rebal Path & by specifically not going to Lethian’s Crossing during the Conquest. When you go to Lethian's Crossing, choose to ally with the with the Bronze Brotherhood, who in turn will propose an alliance with the Stonestalkers (instead of the Earthshakers). As part of this quest, you'll keep Cairn alive, granting this achievement.
@@ -317,6 +321,8 @@ If you done correctly, you will receive a missive from Tarkis Arri inviting you 
 - Blade Grave Oldwalls – Central - Killed while on the quest to claim Sentinel Stand Keep and kill the regent. ***NEEDS WORK - can you even go there on rebel?
 
 #### Fourth Run - Bastard's Wound Achievements
+
+***note the mural bug
 
 **The Bastard Tribe**: Saving the best quest for last, opt to support Mell in his endevaour to return Reef-Talon to the Wound. There isn't much to it, but it does require some specific conversation options. Namely, When Reef-Talon takes you to the mural, speak about it positively and taking any Lore checks available. Optionally, you can literally knock some sense into Reef-Talon with an Athletics check. Afterwards, Reef-Talon will send you to examine more murals. The best options are (via fabula_rasa once again):
 
