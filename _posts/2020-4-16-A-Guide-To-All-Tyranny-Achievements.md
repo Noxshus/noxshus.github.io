@@ -56,7 +56,7 @@ Vellum Citadel: Need to give warning to the sages to open up an achievement late
 
 #### First Run - Organic Achievements
 
-We'll be able to knock out the most achievements in this first playthrough. 3 of them are completely unavoidable, so I will not mention them. Many of the others will be done completely organically, so there's no need to go out of your way for them, but here they are just-in-case:
+There's several achievements that you will very likely get in your first playthrough with little to no effort. 3 of them are completely unavoidable, so I will not mention them. Many of the others will be done completely organically, so there's no need to go out of your way for them, but here they are just-in-case:
 
 **Magnetic Personality**: Recruit every companion in the game. Short of saying "yes" whenever someone offers to join, there are 2 things to note:
 
@@ -120,6 +120,7 @@ Note: It doesn't really matter where you go next, but the Blade Grave is the mor
 #### First Run - Bastard's Wound Achievements
 
 Note: Take Lantry with you & whatever you do, DO NOT KILL LEXEME.
+Note: You can also do **They Sort of Deserver It...** on this run. For some reason, Lexeme doesn't count as a Sleepless and Reef-Talon won't kill her. However, I don't think it's thematically appropriate to do so on this run & I'd recommend simply killing her so that you can see that branch.
 
 **Troubleshooter**: Complete all the Bastard's Wound quests. While I've put this here, I'd recommend following this achievement through on the 1st, 3rd & 4th runs (not possible on the 2nd) anyway for the rewards.
 
@@ -135,13 +136,16 @@ Note: Take Lantry with you & whatever you do, DO NOT KILL LEXEME.
 
 **Sleepless in Three Battles**: You'll get this by accident while wandering the Oldwalls - there's enough hostile Sleepless for this by default.
 
-**Complicit Justice**: You might recall that I mentioned there's 5 ways to resolve the Bastard's Wound questline, so we'll need to do a bit of save-scumming here. At the very end of the Bastard's Wound questline, when it's time to pick a leader, *make a fresh save* and choose to walk away from the meeting. After exiting the Wound, this achievement should pop. Afterwards, reload and continue as usual.
+**Complicit Justice**: You might recall that I mentioned there's 5 ways to resolve the Bastard's Wound questline, so we'll need to do a bit of save-scumming here. At the very end of the Bastard's Wound questline, when it's time to pick a leader, *make a fresh save* and choose to walk away from the meeting. You'll know it's time when you pop out of the portal to see Jaspos, Wagstaff, Mell & Reef-Talon (probably subdued) standing around one another. After exiting the Wound, this achievement should pop. Afterwards, reload and continue as usual.
 
 **Prince of Tidecasters**: Pick Wagstaff as the leader.
+
+#### First Run - Act 2 Stone Sea Achievements
+
+**Savage Stone**: When you enter the Gulfglow Oldwalls, you'll meet some Earthshakers. Avoid attacking them and offer to speak to Red-Fang at the Gulfglow Runic Hall to try and resolve the problem peacefully. Follow her quest for this achievement.
  
 #### First Run - Act 3 Achievements
 
-**Savage Stone**: When you enter the Gulfglow Oldwalls, you'll meet some Earthshakers. Avoid attacking them and offer to speak to Red-Fang at the Gulfglow Runic Hall to try and resolve the problem peacefully. Follow her quest for this achievement.
 
 **Truth and Reconciliation**: Complete Lantry's companion quests. It's absolutely critical that you do not kill Lexeme at any point, or you won't be able to receive the 2nd quest in Act 3.
 
@@ -155,9 +159,9 @@ Note: Take Lantry with you & whatever you do, DO NOT KILL LEXEME.
 
 **Sloppy Seconds**: After completing Barik's companion quests, travel between areas until a random event occurs where you can suggest that Barik bathes. Simply don't. For some reaosn this achievement doesn't trigger immediately - you'll have to wait till the end of the run for it to appear.
 
-**The Prosecution Rests**: Convict an Archon in Tunon's court. This is best done in either this run, or the next. When you're summoned for trial by Tunon, you'll first be able to present evidence against one of the Archons. On this run, you should pick Graven Ashe, as you'll have easily accumulated enough evidence to convict him. Important notes:
+**The Prosecution Rests**: Convict an Archon in Tunon's court. This is best done in either this run, or the next. When you're summoned for trial by Tunon, you'll first be able to present evidence against one of the Archons. On this run, you should pick the Voices, as you'll have easily accumulated enough evidence to convict them. Important notes:
 
-- If you fight Bleden Mark before the trial, you won't be able to convict either Archon.
+- If you fight Bleden Mark before the trial, you won't be able to convict either Archon. You can fight him afterwards.
 - If you murdered Graven Ashe, or the Voices of Nerat before going to the trial, you also won't be able to convict either of them.
 
 **Final Judgement**: Force Tunon to submit to you. During Act 3, you'll be called by Tunon to stand trial. Bring 3 companions with you which have a Loyalty of 3+ (one is probably enough, but the conversations are interesting!) and also have a Favor of 4 with Tunon. As long as you're respectful to Tunon, he should concede your innocence. If you miss this, you can also pick this up in the second run.
@@ -257,10 +261,10 @@ Vellum Citadel - Lost to the Mountains: Send the Scarlet Chorus to rescue the lo
 
 **Requiem for the Somnombulists**: This requires killing all of the Sleepless in the Bastard's Wound:
 - Similar to the **Bastard Wounder** achievement, we'll need to kill all the Sleepless in the Fractured Depths and the Darkened Hollow. Remember that some of them are not hostile, but can be killed via text prompts.
-- Sentence Lexeme to death in the Abyss.
+- Sentence Lexeme to death in the Abyss. You might want to finish Lantry's 1st companion quest first, but the 2nd will not become available.
 - Trick Reef-Talon into killing the remaining Sleepless (described below, in the **They Sort of Deserve It…** achievement)
 
-**They Sort of Deserver It...**: Straight from fabula_rasa's guide, you need to pick the following conversation options with Reef-Talon:
+**They Sort of Deserver It...**: Straight from fabula_rasa's guide, you need to pick the following conversation options with Reef-Talon. I suspect the conversation is slightly bugged, as the option only appears after selecting one of the questions twice:
 
 - “It’s time for you to return to the Wound, in one form or another”
 - “Return to the Wound. You can be of help there – perhaps even lead the settlers”
