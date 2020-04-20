@@ -67,8 +67,6 @@ There's several achievements that you will very likely get in your first playthr
 
 ![reputation](\images\showrep.png)
 
-**Tyrant**: Reach 5 Fear with any companion. Barik is the easiest on a Scarlett Chorus playthrough, as just about everything will annoy him. **NOTE:** Barik will attempt to leave your party if you join up with the Scarlett Chorus, but if you have at least 1 Fear with him, he will strike you, which unlocks a Lore, or Athletics check to get him to back down.
-
 **Chorus of Victory**: Complete the run allied to the Scarlet Chorus. This is the main objective of this run; simply side with the Chorus at the Ascension Hall and never change your mind.
 
 **Charismatic**: Max out Favour with a faction. This one will happen naturally with the Scarlett Chorus on this run.
@@ -91,14 +89,6 @@ There's several achievements that you will very likely get in your first playthr
 
 **Day of Swords**: This is a bit of a joke achievement. Save at some point in Act 1 and keep sleeping in either the tent at the Disfavoured or Scarlett Chorus map, until the Act 1 timer runs out, which will cause a gave over screen. Reload once you've gotten the achievement.
 
-#### First Run - Act 2 Achievements
-
-**All You Survey**: Gain control of all the Spires. The Spires become available as you progress through Act 2. Simply claim them (there's 5 of them).
-
-**Some Assembly Required**: Upgrade any spire.
-
-**Look On My Works, Ye Mighty...**: Upgrade all the Spires.
-
 #### First Run - Act 2 Lethian's Crossing Achievements
 
 Note: You can go to Lethian's Crossing first to do these two achievements, pick up Sirin and activate the Spire, even though we're actually going to take the Burning Library quest from the Voices.
@@ -107,20 +97,24 @@ Note: You can go to Lethian's Crossing first to do these two achievements, pick 
 
 **Boom**: At Lethian's Crossing, inside The Forge, keep clicking on the Forge-Bound Apprentice that's striking the anvil until he explodes (it takes quite a few clicks & he might repeat dialogue, but keep at it).
 
+**Some Assembly Required**: Once you acquire the first spire, the one at Lethian's Crossing, simply pick an upgrade for it for this achievement.
+
 #### First Run - Act 2 Burning Library Achievements
 
-Note: It's important to tell the Voices that you're heading to the Burning Library, when given the option, or else you can't go there at all.
+Note: It's important to tell the Voices that you're heading to the Burning Library, when given the option.
 
 **Unconventional Materials**: Cut the Rune from the Sage's Chest in the Burning Library. This extremely specific achievement is only available if you gave the Sages a warning during the Conquest stage (A Chorus-leaning choice). Ensure you have Lantry with you before heading to the Burning Library, where a new area in the south-east corner of the Lower Ruins ( the '2nd' area) has appeared. Once there, an event will trigger and your attention is drawn to a Sage drowning in lava. Lantry will note a sigil on the sage's chest, which you can opt to cut out. If you don't have Lantry with you, you can also notice this on your own with enough Lore skill.
 
+Note: At the end of the Burning Library quest, I would recommend replacing the Silent Archive with another artifact. This unlocks an additional area in the Burning Library, on the first level, where you can kill a Havoc for the **Cry Havoc!** achievement (as well as granting access to 2 artifacts).
 
-Note: It doesn't really matter where you go next, but the Blade Grave is the more interesting option, in my opinion. I'd recommend doing the Bastard's Wound quests once they're available, to knock them out asap.
+Note: It doesn't really matter where you go next. While there's no specific achievements for it on a Chorus run, the Blade Grave is the more interesting option and includes another of the Havocs for **Cry Havoc!**. You'll encounter said Havoc in the Blade Grave Oldwalls. 
 
+Once that area is conquered, the  Bastard's Wound areas will become available.
 
 #### First Run - Bastard's Wound Achievements
 
 Note: Take Lantry with you & whatever you do, DO NOT KILL LEXEME.
-Note: You can also do **They Sort of Deserver It...** on this run. For some reason, Lexeme doesn't count as a Sleepless and Reef-Talon won't kill her. However, I don't think it's thematically appropriate to do so on this run & I'd recommend simply killing her so that you can see that branch.
+Note: You can also do **They Sort of Deserver It...** on this run. For some reason, Lexeme doesn't count as a Sleepless and Reef-Talon won't kill her. However, I don't think it's thematically appropriate to do so on this run & I'd recommend simply killing Reef-Talon so that you can at least see that outcome.
 
 **Troubleshooter**: Complete all the Bastard's Wound quests. While I've put this here, I'd recommend following this achievement through on the 1st, 3rd & 4th runs (not possible on the 2nd) anyway for the rewards.
 
@@ -142,29 +136,43 @@ Note: You can also do **They Sort of Deserver It...** on this run. For some reas
 
 #### First Run - Act 2 Stone Sea Achievements
 
-**Savage Stone**: When you enter the Gulfglow Oldwalls, you'll meet some Earthshakers. Avoid attacking them and offer to speak to Red-Fang at the Gulfglow Runic Hall to try and resolve the problem peacefully. Follow her quest for this achievement.
- 
+**Savage Stone**: When you enter the Gulfglow Oldwalls, you'll meet some Earthshakers. Avoid immediately attacking them (you can pretend not to be aligned to the Chorus) and offer to speak to the Stonestalker leader, Red-Fang, at the Gulfglow Runic Hall to try and resolve the problem peacefully. Follow her quest, “Rite of Savagery and Stone”, for this achievement.
+
+Note: If you'd like to resolve the conflict peacefully (keeping the Earthshakers alive too), simply growl at Red-Fang after you've finished the rite.
+
+**Cry Havoc!**: Kill 3 Havocs. Finishing **Savage Stone** will open up this achievement too. You'll have already killed 2 Havocs by now (assuming you've been following this guide so far). There'll be only one left.
+- Burning Library – Upper Ruins - Appeared when the lava at the Burning Library receded, which occurs if you do not destroy the Burning Library (by replacing the Silent Archive with another artifact).
+- Blade Grave Oldwalls – Central - Killed while on the quest to claim Sentinel Stand Keep and the neighbouring spire (again assuming you've been following this guide).
+- Passage of Culling - This Havoc becomes accessible via a quest “The Culling Dance”. This quest is by Speaks-for-Soil, who's at Stonestalker camp in Stone Down Gorge, but it requires that you have already completed the “Rite of Savagery and Stone” quest.
+
+If you missed this achievement, you'll also very likely get it by accident on the Rebel run.
+
+**All You Survey**: Gain control of all the Spires. The Spires become available as you progress through Act 2 - by the end of the Stone Sea segment, they'll all be available. Simply claim them for this achievement.
+
+**Look On My Works, Ye Mighty...**: Upgrade all the spires. As long as you've been upgrading them as soon as you claim them (no reason not to really), you'll get this achievement.
+
 #### First Run - Act 3 Achievements
 
+Note: These achievements are listed in-order that they should be pursued.
 
 **Truth and Reconciliation**: Complete Lantry's companion quests. It's absolutely critical that you do not kill Lexeme at any point, or you won't be able to receive the 2nd quest in Act 3.
 
-**High as the Mountain Spire**: This is related to Lantry's 2nd quest, "Annal Sects”. To get it, interact with the berry bush in the Indigo Fields again while in a full party. However, Siren doesn't count. Additionally, fabula_rasa recommends not taking Kills-in-Shadow due to a potential bug with an artifact, but this has never occurred to me.
+**High as the Mountain Spire**: This is related to Lantry's 2nd quest, "Annal Sects”. You can do this immediately after: interact with the berry bush (again) in the Indigo Fields while in a full party. However, Siren doesn't count. 
+
+**The Prosecution Rests**: Convict an Archon in Tunon's court. This is best done in either this run, or the next. When you're summoned for trial by Tunon, you'll first be able to present evidence against one of the Archons. On this run, you should pick the Graven Ashe, as you'll need to kill him for Barik's companion quest anyway. Tunon will summon Bleden Mark to do the deed, but I'd recommend asking to go execute him yourself, as the Iron Hearth is an enjoyable section. Important notes:
+
+- If you fight Bleden Mark before the trial, you won't be able to convict either Archon.
+- If you murdered Graven Ashe, or the Voices of Nerat before going to the trial, you also won't be able to convict either of them.
+
+**Change of Carapace**: Complete Barik's companion quests. This can be done on any playthrough. The only 'trick' is that, in your conversations with Barik, never agree with him when he suggests staying in his armour. In this playthrough, as we're siding with the Chorus, you'll have to kill Graven Ashe to free Barik of his commitment.
+
+**Sloppy Seconds**: After completing Barik's companion quests, travel between areas until a random event occurs where you can suggest that Barik bathes. Select the 3rd option, to leave. For some reaosn this achievement doesn't trigger immediately - you'll have to wait till the end of the run for it to appear.
 
 **Let the Next Verse Begin**: Complete Verse's companion quests. At the end, with a Loyalty of at least 3, allow the Voices of Nerat to take Verse. There's another quest related to Verse's companion quest, but we'll do that on another run.
 
 **Paved with Good Intentions**: As a consequence of **Let the Next Verse Begin**, you'll also acquire this achievement.
 
-**Change of Carapace**: Complete Barik's companion quests. This can be done on any playthrough. The only 'trick' is that, in your conversations with Barik, never agree with him when he suggests staying in his armour.
-
-**Sloppy Seconds**: After completing Barik's companion quests, travel between areas until a random event occurs where you can suggest that Barik bathes. Simply don't. For some reaosn this achievement doesn't trigger immediately - you'll have to wait till the end of the run for it to appear.
-
-**The Prosecution Rests**: Convict an Archon in Tunon's court. This is best done in either this run, or the next. When you're summoned for trial by Tunon, you'll first be able to present evidence against one of the Archons. On this run, you should pick the Voices, as you'll have easily accumulated enough evidence to convict them. Important notes:
-
-- If you fight Bleden Mark before the trial, you won't be able to convict either Archon. You can fight him afterwards.
-- If you murdered Graven Ashe, or the Voices of Nerat before going to the trial, you also won't be able to convict either of them.
-
-**Final Judgement**: Force Tunon to submit to you. During Act 3, you'll be called by Tunon to stand trial. Bring 3 companions with you which have a Loyalty of 3+ (one is probably enough, but the conversations are interesting!) and also have a Favor of 4 with Tunon. As long as you're respectful to Tunon, he should concede your innocence. If you miss this, you can also pick this up in the second run.
+**Final Judgement**: Force Tunon to submit to you. Following the Trial of the Archons & executing your archon of choice you'll also have to argue for yourself. Preferably, bring 3 companions with you which have a Loyalty of 3+ and also have a Favor of 4 with Tunon. As long as you're respectful to Tunon, he should concede your innocence. If you miss this, you can also pick this up in the second run.
 
 **Apocalypse Later**: At the end of the game, do not cast the Edict on the Northern Empire and instead just affirm your Loyalty to Kyros.
 
@@ -178,6 +186,7 @@ Now that you've had a chance to get the hang of it, our second run will be:
 
 #### Second Run - Conquest
 
+don't pick anti-siren options
 
 - The Cult of Sirin:  Destroy Sirin's cult  (this gives major Fear with Sirin)
 - A Red Anvil: Enslave the renegade mage 
@@ -192,7 +201,7 @@ The Edict of Storms: Give no warning (unlocks an artifact helm)
 
 #### Second Run - Organic Achievements
 
-**Unfinished Business**: Complete Verse's companion quests. This is similar to **Let the Next Verse Begin** from the previous run, but on this one, you can kill the Voices of Nerat at the end of Verse's quests to get this achievement instead.
+**Tyrant**: Reach 5 Fear with any companion. The easiest person to do this with, across all runs, is Eb on a Disfavoured run. Kicking Tarkis off the Spire alone will net you huge fear.
 
 **Legion of Victory**: Complete the run allied to the Disfavoured. This is the main objective of this run; simply side with the Disfavoured at the Ascension Hall and never change your mind.
 
@@ -230,8 +239,9 @@ Note that this will prevent you from completing Lantry's companion quests on thi
 
 #### Second Run - 3rd Act Achievements
 
-**Might Makes Right**: Convince Graven Ashe to submit to you. Can only be done on this run & requires at least 4 Favor (with him) to convince him.
+**Unfinished Business**: Complete Verse's companion quests. This is similar to **Let the Next Verse Begin** from the previous run, but on this one, you can kill the Voices of Nerat at the end of Verse's quests to get this achievement instead.
 
+**Might Makes Right**: Convince Graven Ashe to submit to you. Can only be done on this run & requires at least 4 Favor (with him) to convince him.
 
 ### Third Run
 
@@ -317,12 +327,6 @@ If you done correctly, you will receive a missive from Tarkis Arri inviting you 
 #### Fourth Run - 2nd Act Achievements
 
 **Eternal Suffering**: This is only possible on the Rebal Path & by specifically not going to Lethian’s Crossing during the Conquest. When you go to Lethian's Crossing, choose to ally with the with the Bronze Brotherhood, who in turn will propose an alliance with the Stonestalkers (instead of the Earthshakers). As part of this quest, you'll keep Cairn alive, granting this achievement.
-
-**Cry Havoc!**: Kill 3 Havocs (but Lullaby, from the DLC, doesn't count). This is the most straightforward to do on the Rebel path:
-- Lethian’s Crossing Oldwalls – Antechamber: Will be killed while on the main quest in Lethian’s Crossing.
-- Burning Library – Upper Ruins - only appears if you do not destroy the Burning Library (by replacing the Silent Archive with another artifact).
-- Passage of Culling - Only accessible while on the quest “The Culling Dance” (the quest is given by Speaks-for-Soil after you complete the “Rite of Savagery and Stone”).
-- Blade Grave Oldwalls – Central - Killed while on the quest to claim Sentinel Stand Keep and kill the regent. ***NEEDS WORK - can you even go there on rebel?
 
 #### Fourth Run - Bastard's Wound Achievements
 
