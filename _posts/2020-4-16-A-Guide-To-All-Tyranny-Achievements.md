@@ -17,11 +17,13 @@ Before we begin, some notes about *Tyranny* and making one's life easier:
 
 - At character creation, spread all your skill points across Lore, Athletics and Subterfuge. These 3 skills unlock hundreds of interactions and in-turn reward experience for the respective skill. As long as you keep selecting options that require them, you'll likely never meet a skill check you can't succeed past Act 1 of the first run.
 
-- Magic is by far the path of least resistance. There are spells for every occasion and then some. As all characters can also use magic, at least to some degree, there is no reason not to have spells equipped on your entire party, even on archetypes that you wouldn't traditionally associate with magic usage. Combined with *Tyranny*'s character progression, having everyone use magic will progressively make your entire party better at magic related skills (particularly, Lore).
+- Magic is by far the path of least resistance. There are spells for every occasion and then some. As all characters can also use magic, at least to some degree, there is no reason not to have spells equipped on your entire party, even on archetypes that you wouldn't traditionally associate with magic usage. Combined with *Tyranny*'s character progression, having everyone use magic will progressively make your entire party better at magic related skills. Above all, it's the most innovative and enjoyable part-of *Tyranny*, so go ham.
 
-- While *Tyranny* is a real-time-with-pause style of RPG, characters actually have to wait a variable amount of time before making their next action. This is called "Recovery". Generally, because magic is king, items which increase recovery time significantly are to be avoided, because it increases the amount of time a character has to wait before casting their next spell. Just enough equipment to avoid being one-shot should be the goal. Magic provides several forms of defence, as well as healing, so armour is not particularly important in *Tyranny*.
+- While *Tyranny* is a real-time-with-pause style of RPG, characters actually have to wait a variable amount of time before making their next action. This is called "Recovery". Generally, because magic is king, items which increase recovery time significantly are to be avoided, because it increases the amount of time a character has to wait before casting their next spell. Therefore, it's a good idea to avoid putting your team in heavy armour, if you can avoid it. Magic provides several forms of defence, as well as healing, so armour is not particularly important in *Tyranny*. However (this will more likely be true on your second run onwards), there are several sigils of magic that impact recovery time, which are % based. Putting these on heavily armoured characters can make for some ridiculous cheese. Haste (Force + Guarded Form) with a Pride Magic sigil comes to mind.
 
 - Companions in *Tyranny* have specific alignments, but will generally stick with you regardless of the choices you make (with 1 exception, which I'll mention later). In subsequent playthroughs, these values will reset, so you'll be free to explore the opposite interactions too.
+
+- Sell everything you possibly can at the end of a run, because money transfers over.
 
 ### First Run
 
@@ -186,16 +188,19 @@ Now that you've had a chance to get the hang of it, our second run will be:
 
 #### Second Run - Conquest
 
-don't pick anti-siren options
+Bastard's City: Again, doesn't really matter.
+- Gates of Judgement: Join battle alongside the Disfavoured
+- Feeding the Host: Confiscate merchant caravans
+- Taking the Bastard City: Assault on the main gates
 
-- The Cult of Sirin:  Destroy Sirin's cult  (this gives major Fear with Sirin)
-- A Red Anvil: Enslave the renegade mage 
-- Who Controlled the Crossing? : Choose the Disfavored
+Lethian's Crossing: No difference really, but I would avoid gaining Fear with Sirin, as she's quite anti-Chorus, so will likely be who you gravitate towards for your party.
+- The Iron Must Flow: Draw from the Scarlet Chorus recruits
+- Pick of the Armoury: Choose the Disfavoured
+- Who Controlled the Crossing?: Choose the Disfavoured
 
-Stalwart:
-
+Stalwart: Some stuff here that's unique to the Disfavoured.
 Marching on Empty: Punish the Scarlet Chorus (unlocks a supply cache)
-
+Better Dead Than Red: Deny the Scarlet Chorus their right to conscription
 The Edict of Storms: Give no warning (unlocks an artifact helm)
 
 
