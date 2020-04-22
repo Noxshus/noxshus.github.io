@@ -25,6 +25,8 @@ Before we begin, some notes about *Tyranny* and making one's life easier:
 
 - Sell everything you possibly can at the end of a run, because money transfers over.
 
+- On new game plus, enemies will initially be significantly harder than you're used to, because they're scaled up to your level. However, they'll be quickly outpaced again by Act 2.
+
 ### First Run
 
 - Preparation begins even before we start. There's 2 achievements tied to difficulty: **Iron Victory** & **Victory of the Damned**. The former is an 'ironman' mode of sorts where you only have 1 save file, which is deleted if your party dies. The latter requires a win on the highest difficulty. *Tyranny* is only particularly challenging initially, as your ever-increasing magic skill will eventually trivialise everything, even on the highest difficulty.
@@ -206,15 +208,9 @@ The Edict of Storms: Give no warning (unlocks an artifact helm)
 
 #### Second Run - Organic Achievements
 
-**Tyrant**: Reach 5 Fear with any companion. The easiest person to do this with, across all runs, is Eb on a Disfavoured run. Kicking Tarkis off the Spire alone will net you huge fear.
+**Tyrant**: Reach 5 Fear with any companion. The easiest person to do this with, across all runs, is Eb on a Disfavoured run. Kicking Tarkis Arry off the Spire alone will net you huge fear.
 
 **Legion of Victory**: Complete the run allied to the Disfavoured. This is the main objective of this run; simply side with the Disfavoured at the Ascension Hall and never change your mind.
-
-**Made To Be Broken**: Break all the Edicts. This happens somewhat by accident on the Disfavoured run:
-- Do not go to Lethian's Crossing.
-- Edict of Fire: Broken when destroying the Burning Library.
-- Edict of Stone: Broken when killing Cairn (there's another achievement for it further down).
-- Edict of Storms: Broken either by killing Amelia’s baby or by using the Lore circumvention.
 
 #### Second Run - 1st Act Achievements
 
@@ -224,9 +220,11 @@ The Edict of Storms: Give no warning (unlocks an artifact helm)
 
 #### Second Run - 2nd Act Achievements
 
+Note: When offered a choice, go to the Burning Library, not Lethian's Crossing. You can, however, visit Lethian's Crossing regardless to acquire the spire.
+
 **Feel The Burn**: Destroy the Burning Library. This is done naturally on this run, as it's part-of the Disfavoured questline, as long as you visit the Burning Library.
 
-**Lawyered**: This achievement requires saving Amelia's child through a legal loophole. Following the attack on Sentinel Keep, you'll discover that Amelia has a child, which you'll otherwise need to murder to end the Edict of Storms. However, with a high enough Lore skill, you'll be able to figure out how to circumvent that. ***NEEDS WORK
+**Lawyered**: This achievement requires saving Amelia's child through a legal loophole. Following the attack on Sentinel Keep, you'll discover that Amelia has a child, which you'll otherwise need to murder to end the Edict of Storms. If you went to the Burning Library as suggested above, you'll have picked up an item that allows you to circumvent having to kill the child.
 
 #### Second Run - Bastard's Wound Achievements
 
@@ -244,6 +242,8 @@ Note that this will prevent you from completing Lantry's companion quests on thi
 
 #### Second Run - 3rd Act Achievements
 
+Note: If you condemn the Voices in the trial (very to similar to how we condemned Ashe in the first run), you'll be able to murder the Voices with the blessing of the court.
+
 **Unfinished Business**: Complete Verse's companion quests. This is similar to **Let the Next Verse Begin** from the previous run, but on this one, you can kill the Voices of Nerat at the end of Verse's quests to get this achievement instead.
 
 **Might Makes Right**: Convince Graven Ashe to submit to you. Can only be done on this run & requires at least 4 Favor (with him) to convince him.
@@ -255,7 +255,20 @@ Note that this will prevent you from completing Lantry's companion quests on thi
 
 #### Third Run - Conquest
 
-Vellum Citadel - Lost to the Mountains: Send the Scarlet Chorus to rescue the lost scouts (unlocks a special area)
+Bastard's City: Matters even less on Anarchy as we don't really care about anyone liking us.
+- Gates of Judgement: Join battle alongside the Disfavoured
+- To Judge the Enemy: Conscript the enemy 
+- Taking the Bastard City : Sabotage the city's defenses: Assault on the main gates
+
+Apex: Here I picked 2 choices that unlock 2 otherwish inaccessible bits of content.
+- The Battle of Edgering Pass: Side with the Scarlet Chorus [Unlocks an abandoned cache]
+- Swords of the Fallen: Refute all charges [Unlocks Razed village in Vendrien's Well]
+- The Fall of Apex: Negotiate surrender
+
+Azure: Nothing special here either, but trying to even it out between the two factions.
+- The Destruction of Azure: Dismiss the Scarlet Chorus complaints
+- Forced Into the Fray: Free the mages
+- The Edict of Stone: Send both armies to delay Cairn 
 
 #### Third Run - Organic Achievements
 
@@ -263,8 +276,14 @@ Vellum Citadel - Lost to the Mountains: Send the Scarlet Chorus to rescue the lo
 
 **Overkill**: Craft 10 artifacts. Unlike the other artifact achievements, this needs a bit more effort, but is easiest to do on this path, as it's practically the objective. A list of artifacts can be found on the Wiki: https://tyranny.gamepedia.com/Artifacts. Remember that, by now, you'll have carried forward 3 artifacts from previous runs, so this will be even easier.
 
+**Made To Be Broken**: Break all the Edicts. This can be done on the Chorus or Disfavoured path too, but is easiest on this one, as you follow the quest in all areas.
+- Edict of Fire: Broken when destroying the Burning Library.
+- Edict of Stone: Broken when killing Cairn (there's another achievement for it further down).
+- Edict of Storms: Broken either by killing Amelia’s baby or by using the Lore circumvention (The **Lawyered** achievement described previously).
 
 #### Third Run - 2nd Act Achievements
+
+Note: You don't need to make any particular choices on the Anarchy run - you can go anywhere you like.
 
 **Taking a Stand**: Claim Sentinel Keep for yourself. This can only be done on this path, but there's no breadcrumb quest to lead you there. If you travel there on your own accord, you'll be able to lay claim to it.
 
@@ -304,11 +323,22 @@ On the last stretch, our settings will be as follows:
 
 #### Fourth Run - Conquest
 
-apex - Negotiate surrender 
+We can do exactly the same choices as the Anarchy run:
 
-Do not go to Lethian’s Crossing
+Bastard's City:
+- Gates of Judgement: Join battle alongside the Disfavoured
+- To Judge the Enemy: Conscript the enemy 
+- Taking the Bastard City : Sabotage the city's defenses: Assault on the main gates
 
-Azure - Send both armies to delay Cairn 
+Apex: Negotiating surrender has a significant impact on the rebel run.
+- The Battle of Edgering Pass: Side with the Scarlet Chorus [Unlocks an abandoned cache]
+- Swords of the Fallen: Refute all charges [Unlocks Razed village in Vendrien's Well]
+- The Fall of Apex: Negotiate surrender
+
+Azure:
+- The Destruction of Azure: Dismiss the Scarlet Chorus complaints
+- Forced Into the Fray: Free the mages
+- The Edict of Stone: Send both armies to delay Cairn 
 
 #### Fourth Run - Organic Achievements
 
@@ -335,7 +365,7 @@ If you done correctly, you will receive a missive from Tarkis Arri inviting you 
 
 #### Fourth Run - Bastard's Wound Achievements
 
-***note the mural bug
+Note: There are several bugs related to viewing the murals in the Oldwalls before having recieved instructions from Reef-Talon to do so, so avoid doing so!
 
 **The Bastard Tribe**: Saving the best quest for last, opt to support Mell in his endevaour to return Reef-Talon to the Wound. There isn't much to it, but it does require some specific conversation options. Namely, When Reef-Talon takes you to the mural, speak about it positively and taking any Lore checks available. Optionally, you can literally knock some sense into Reef-Talon with an Athletics check. Afterwards, Reef-Talon will send you to examine more murals. The best options are (via fabula_rasa once again):
 
@@ -349,4 +379,4 @@ This should convince Reef-Talon to return. At the end of the Bastard's Wound que
 
 **Let Sleeping Abominations Lie**: After Lexame let's you go see Reef-Talon, avoid Lullaby entirely for this achievement.
 
- 
+ ...and that's a wrap!
