@@ -27,6 +27,8 @@ Before we begin, some notes about *Tyranny* and making one's life easier:
 
 - On new game plus, enemies will initially be significantly harder than you're used to, because they're scaled up to your level. However, they'll be quickly outpaced again by Act 2.
 
+___
+
 ### First Run
 
 - Preparation begins even before we start. There's 2 achievements tied to difficulty: **Iron Victory** & **Victory of the Damned**. The former is an 'ironman' mode of sorts where you only have 1 save file, which is deleted if your party dies. The latter requires a win on the highest difficulty. *Tyranny* is only particularly challenging initially, as your ever-increasing magic skill will eventually trivialise everything, even on the highest difficulty.
@@ -180,6 +182,8 @@ Note: These achievements are listed in-order that they should be pursued.
 
 **Apocalypse Later**: At the end of the game, do not cast the Edict on the Northern Empire and instead just affirm your Loyalty to Kyros.
 
+___
+
 ### Second Run
 
 Now that you've had a chance to get the hang of it, our second run will be:
@@ -248,6 +252,8 @@ Note: If you condemn the Voices in the trial (very to similar to how we condemne
 
 **Might Makes Right**: Convince Graven Ashe to submit to you. Can only be done on this run & requires at least 4 Favor (with him) to convince him.
 
+___
+
 ### Third Run
 
 - On this run, we'll have no specific difficulty settings, but I would perhaps recommend turning it up to at least Normal, so that the transition to Path of the Damned on the next run won't be as jarring.
@@ -313,6 +319,8 @@ Note: You don't need to make any particular choices on the Anarchy run - you can
 #### Third Run - 3rd Act Achievements
 
 **From the Shadows**: Have Bleden Mark turn on Tunon. Only possible on this run. You'll need at least 4 Favor with Bleden and have completed the "Final Hunt” quest before going to the trial. You can either attack Tunon right away, or lose the trial - Bleden will show up to help you either way.
+
+___
 
 ### Fourth Run
 
